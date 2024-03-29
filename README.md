@@ -1,6 +1,6 @@
 # React-Django JWT Authentication Project
 
-This is a full-stack web application built with React.js for the frontend and Django for the backend. JWT tokens are used for authentication.
+This is a full-stack web application built by learning from [techwithtim](https://github.com/techwithtim) with using React.js for the frontend and Django for the backend. JWT tokens are used for authentication.
 
 ## Features
 
@@ -24,5 +24,6 @@ TODO
 
 ### Usage
 
-###License
-This project has been written by [techwithtim][https://github.com/techwithtim]
+### License 
+This project has been written by [techwithtim](https://github.com/techwithtim)
+
