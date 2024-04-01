@@ -1,0 +1,15 @@
+Environment
+------------
+python -m venv env or virtualenv env
+source env/bin/activate
+install all requirenments
+
+Django
+------------
+django-admin startproject backend
+cd backend
+python manage.py startapp api
+
+add api and rest_framework to installed apps
+
+create serializers.py
